@@ -31,3 +31,6 @@
 .tab-pane{
   background: rgba(250,250,250,0.8)!important;
 }
+.tab-pane .tab-pane{
+  background: none !important;
+}
