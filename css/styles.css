@@ -1991,10 +1991,10 @@ body {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
-  -webkit-filter: blur(2px);
+  /*-webkit-filter: blur(2px);
   -moz-filter: blur(2px);
   -o-filter: blur(2px);
-  filter: blur(2px);
+  filter: blur(2px);*/
   z-index: 0;
 }
 .bg-holder > .bg-blur:before {

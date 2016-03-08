@@ -1,2 +1,33 @@
 /*YOUR CUSTOM STYLES*/
+/* HEADER */
+#main-header{
+  background: #ccc;
+}
+.header-top{
+  max-height: inherit !important;
+  min-height: 80px;
+  background: #fff;
+}
+.logo img{
+  max-width: 120px;
+}
+.main-header-search{
+  top: 15px;
+}
+.main-header-search .form-control{
+  background: #ddd;
+  border-color: #ccc;
+  color: #333;
+}
+.top-user-area .top-user-area-list{
+  top: 10px;
+}
+.top-user-area .top-user-area-list > li > a{
+  color: #ccc;
+}
+/* HEADER */
 
+/*TAB*/
+.tab-pane{
+  background: rgba(250,250,250,0.8)!important;
+}
